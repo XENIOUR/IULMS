@@ -147,7 +147,7 @@ public class tableViewController implements Initializable {
         grid.add(username, 1, 0);
         grid.add(new Label("Password:"), 0, 1);
         grid.add(password, 1, 1);
-        grid.add(new Label("Email"), 0, 2);
+        grid.add(new Label("E-mail"), 0, 2);
         grid.add(email, 1, 2);
         grid.add(male, 0, 3);
         grid.add(feMale, 1, 3);
